@@ -17,6 +17,6 @@ My name is Zachary Meyer and I am a software engineer at Syntiant Corp. I enjoy 
 </a>
 
 # Stats
-<a href="https://github.com/dannythompson901">
+<a href="https://github.com/itiszac">
   <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itiszac&layout=compact&theme=react" alt="Top languages" />
 </a>
